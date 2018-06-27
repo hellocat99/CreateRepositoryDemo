@@ -1,1 +1,3 @@
 # CreateRepositoryDemo
+备注一下，如何把本地的项目放到github上
+这里我们创建github的时候，已经勾选了自动创建README.md文件
